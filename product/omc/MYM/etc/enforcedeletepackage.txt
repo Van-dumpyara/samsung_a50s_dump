@@ -1,0 +1,8 @@
+7
+AmazonVideo_SWA.apk
+Dailyhunt.apk
+SamsungDotCom.apk
+SamsungMax.apk
+SamsungPayStub.apk
+Snapchat.apk
+Spotify.apk

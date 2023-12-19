@@ -1,0 +1,5 @@
+4
+AmazonVideo_SWA.apk
+Dailyhunt.apk
+SamsungMax.apk
+Snapchat.apk
