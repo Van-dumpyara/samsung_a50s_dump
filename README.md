@@ -1,0 +1,14 @@
+# a50sxx-user 11 RP1A.200720.012 A507FNXXS7DWD1 release-keys
+- manufacturer: samsung
+- platform: universal9611
+- codename: a50s
+- flavor: a50sxx-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: A507FNXXS7DWD1
+- tags: release-keys
+- fingerprint: samsung/a50sxx/a50s:11/RP1A.200720.012/A507FNXXS7DWD1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a50sxx-user-11-RP1A.200720.012-A507FNXXS7DWD1-release-keys
+- repo: samsung_a50s_dump
